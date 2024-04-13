@@ -4,7 +4,9 @@ My name is Elijah Johnson. I am currently working on my Bachelor's in Computer S
 I love poetry, writing, music, creating, philosophy, backpacking, working on cars, and am addicted to creative problem solving.
 
 🔭 I’m currently working on a Bachelor's in Computer Science.
+
 🌱 I’m currently learning how to deepen my understanding of C++.
+
 👯 I’m looking for an internship to take the first step on the path of my career!
 
 📫 How to reach me: 

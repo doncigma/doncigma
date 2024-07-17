@@ -10,7 +10,7 @@ I am currently...
 
 👯 Looking for an internship to take the first step on the path of my career!
 
-⚡ Fun fact: Lately I have been learning the harmonica and thoroughly enjoying it!
+⚡ Fun fact: Lately I have been learning the harmonica and loving it.
 
 📫 How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
 

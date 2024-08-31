@@ -6,9 +6,7 @@ I am currently...
 
 🔭 Working on a Bachelor's in Computer Science.
 
-🌱 Learning how to deepen my understanding of C++.
-
-👯 Looking for an internship to take the first step on the path of my career!
+🌱 Learning how Python while building a parser in it!
 
 ⚡ Fun fact: Lately I have been learning the harmonica and loving it.
 

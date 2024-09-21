@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-My name is Elijah Johnson. I love poetry, writing, music, creating, philosophy, backpacking, working on cars, and am addicted to coding!
+My name is Elijah Johnson. I love poetry, writing, music, creating, philosophy, backpacking, working on cars, and of course coding!
 
 I am currently...
 
 🔭 Working on a Bachelor's in Computer Science.
 
-🌱 Learning how Python while building a parser in it!
+🌱 Learning more about Python coming from C++!
 
-⚡ Fun fact: Lately I have been learning the harmonica and loving it.
+⚡ Fun fact: Lately I have been learning the harmonica and picked guitar back up.
 
 📫 How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
 

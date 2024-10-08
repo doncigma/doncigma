@@ -1,8 +1,8 @@
 ### Dwell on the good.
 
 About me...
-- Scholar of Worlds Unwitnessed
-- Doer of What is Required of Me
+🌱 Scholar of Worlds Unwitnessed
+🌱 Doer of What is Required of Me
 - Poet of the Human Ineffable
 - Enchanted by the World
 - Love-struck by the Music

@@ -1,10 +1,11 @@
 ### Dwell on the good.
 
-* Scholar of Worlds Unwitnessed
-* Doer of What is Required of Me
-* Poet of the Human Ineffable
-* Enchanted by the World
-Love-struck by the Music
+About me...
+- Scholar of Worlds Unwitnessed
+- Doer of What is Required of Me
+- Poet of the Human Ineffable
+- Enchanted by the World
+- Love-struck by the Music
 
 Currently...
 - Learning more about Python coming from C++

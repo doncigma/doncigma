@@ -1,16 +1,18 @@
-### Hi there 👋
+### Dwell on the good.
 
-My name is Elijah Johnson. I love poetry, writing, music, creating, philosophy, backpacking, working on cars, and of course coding!
+Scholar of Worlds Unwitnessed
+Doer of What is Required of Me
+Poet of the Human Ineffable
+Enchanted by the World
+Love-struck by the Music
 
-I am currently...
+Currently...
+Learning more about Python coming from C++
+Making my first front-to-back desktop app (a miniplayer for Tidal)
+Playing with game development on the side (even making my own assets)
+Looking to make a server on a mini pc (funds pending)
 
-🔭 Working on a Bachelor's in Computer Science.
-
-🌱 Learning more about Python coming from C++!
-
-⚡ Fun fact: Lately I have been learning the harmonica and picked guitar back up.
-
-📫 How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
+How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
 
 <!--
 **doncigma/doncigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

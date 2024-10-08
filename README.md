@@ -7,7 +7,7 @@ Enchanted by the World
 Love-struck by the Music
 
 Currently...
-Learning more about Python coming from C++
+Learning more about Python coming from C++ \n
 Making my first front-to-back desktop app (a miniplayer for Tidal)
 Playing with game development on the side (even making my own assets)
 Looking to make a server on a mini pc (funds pending)

@@ -7,13 +7,10 @@
 * Love-struck by the Music
 
 Currently...
-Learning more about Python coming from C++
-
-Making my first front-to-back desktop app (a miniplayer for Tidal)
-
-Playing with game development on the side (even making my own assets)
-
-Looking to make a server on a mini pc (funds pending)
+- Learning more about Python coming from C++
+- Making my first front-to-back desktop app (a miniplayer for Tidal)
+- Playing with game development on the side (even making my own assets)
+- Looking to make a server on a mini pc (funds pending)
 
 How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
 

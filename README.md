@@ -9,7 +9,7 @@ About me...
 
 Currently...
 - 🔭 Learning more about Python coming from C++
-- 🔭 Making my first front-to-back desktop app (a miniplayer for Tidal)
+- 🔭 Making my first front-to-back desktop app (a miniplayer for Tidal) in C#
 - 🔭 Playing with game development on the side (even making my own assets)
 - 🔭 Looking to make a server on a mini pc (funds pending)
 

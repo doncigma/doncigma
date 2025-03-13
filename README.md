@@ -1,6 +1,6 @@
 ### Dwell on the good.
 
-Currently...
+Currently I am...
 - 🔭 Completing my capstone for BibleQuiz!
 - 🔭 Playing with game development on the side (also making my own assets).
 

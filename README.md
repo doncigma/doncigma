@@ -1,19 +1,11 @@
 ### Dwell on the good.
 
-About me...
-- 🌱 Scholar of Worlds Unwitnessed
-- 🌱 Doer of What is Required of Me
-- 🌱 Poet of the Human Ineffable
-- 🌱 Enchanted by the World
-- 🌱 Love-struck by the Music
-
 Currently...
-- 🔭 Learning more about Python coming from C++
-- 🔭 Making my first front-to-back desktop app (a miniplayer for Tidal) in C#
-- 🔭 Playing with game development on the side (even making my own assets)
-- 🔭 Looking to make a server on a mini pc (funds pending)
+- 🔭 Completing my capstone for BibleQuiz!
+- 🔭 Playing with game development on the side (also making my own assets).
 
-How to reach me: Email: ejdylan1029@gmail.com Mobile: (425) 381-9344
+📫 Email: ejdylan1029@gmail.com 
+📫 Mobile: (425) 381-9344
 
 <!--
 **doncigma/doncigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

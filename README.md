@@ -1,8 +1,8 @@
 ### Dwell on the good.
 
 Currently I am...
-- 🔭 Completing my capstone for BibleQuiz!
-- 🔭 Playing with game development on the side (also making my own assets).
+- 🔭 New grad job searching!
+- 🌱 Making a game exclusively in C++ for my portfolio.
 
 📫 Email: ejdylan1029@gmail.com 
 📫 Mobile: (425) 381-9344

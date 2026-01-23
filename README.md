@@ -5,7 +5,7 @@ Currently I am...
 - 🌱 Making a game in C++ from scratch (with some external tool use) for my portfolio.
 
 📫 Email: ejdylan1029@gmail.com 
-📫 Mobile: (425) 381-9344
+📫 LinkedIn: www.linkedin.com/in/elijah-johnson-27b82a232
 
 <!--
 **doncigma/doncigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Dwell on the good.
 
 Currently I am...
-- 🔭 New grad job searching!
-- 🌱 Making a game exclusively in C++ for my portfolio.
+- 🔭 New grad job searching for anything to test my skils and get real-world experience!
+- 🌱 Making a game in C++ from scratch (with some external tool use) for my portfolio.
 
 📫 Email: ejdylan1029@gmail.com 
 📫 Mobile: (425) 381-9344

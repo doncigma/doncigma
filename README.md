@@ -1,8 +1,9 @@
 ### Dwell on the good.
 
 Currently I am...
-- 🔭 New grad job searching for anything to test my skils and get real-world experience!
+- 🔭 Recent CS graduate job searching for anything to test my skills and get real-world experience!
 - 🌱 Making a game in C++ from scratch (with some external tool use) for my portfolio.
+- ⚡ Polishing my portfolio website.
 
 📫 Email: ejdylan1029@gmail.com 
 📫 LinkedIn: www.linkedin.com/in/elijah-johnson-27b82a232
